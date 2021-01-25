@@ -12,6 +12,8 @@ namespace AppConsole
             string opcion = "";
             string opcionEntidad = "";
 
+            // Pendiente Menu Materias
+
             do
             {
                 Console.WriteLine("MENU PRINCIPAL");
